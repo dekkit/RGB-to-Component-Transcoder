@@ -11,5 +11,7 @@ https://github.com/dekkit/RGB-to-Component-Transcoder
 Please feel free to copy, adapt and use as appropriate. If you do improve on this design, please drop me a note / create an issue to let me know and share your results.
 
 Dek.
-5/4/2020
+3/5/2020
 
+Acknowledgements to Ace, Zebidee and all variations available on the web.
+Also to retroRGB for most useful info on LM1881 and THS amps.
