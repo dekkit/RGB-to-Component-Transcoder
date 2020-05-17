@@ -1,9 +1,11 @@
 # Dek's RGB-to-Component-Transcoder
 A DIY RGB to Component Video Transcoder to make your own video conversion boxes. 
 
-This schematic and associated PCB does not do any upscaling and is designed to support old CRT TVs that only have component video inputs (not RGB scart like in many european countries) and primarily as way to open up more output options for retro consoles using an external method (rather needing to directly modify the internal hardware).   This schematic will not upscale a 240p signal. Many LCD tvs will not display a 240p picture through Component video in!
+This schematic and associated PCB does not do any upscaling and is designed to support old CRT TVs that only have component video inputs (not RGB scart like in many european countries) and primarily as way to open up more output options for retro consoles using an external method (rather needing to directly modify the internal hardware).   
 
-It has been designed to fit in a small DIY project box of dimensions 10cm x 6cm x 2.5cm (with screw holes aligned).  You can find these readily online or you can arrange a 3D print.
+
+This schematic will not upscale a 240p signal. Many LCD tvs will not display a 240p picture through Component video in.
+
 
 New versions can be found here in the code repository
 https://github.com/dekkit/RGB-to-Component-Transcoder
@@ -48,6 +50,9 @@ Materials - i've include the BOM (Bill of materials) as a CSV.
 - Used 1/4 watt resistors 5% (either ceramic or metallic - though many TV mods use ceramic, so use cermic if possible)
 - Low voltage components are acceptable (ie I've been using 6.3v for the electrolytic cap without any issues)
 - Monolythic ceramic capacitors were used (104, and 105 - again use metallic ones if ceramic is unavailable).
+
+It has been designed to fit in a small DIY project box of dimensions 10cm x 6cm x 2.5cm (with screw holes aligned).  You can find these readily online or you can arrange a 3D print.
+
 
 Initial successful testing (on version VA01 19/4/2020):
 
