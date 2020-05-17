@@ -10,23 +10,23 @@ It has been designed to fit in a small DIY project box of dimensions 10cm x 6cm 
 New versions can be found here in the code repository
 https://github.com/dekkit/RGB-to-Component-Transcoder
 
-Versions:
-VA01 - proto-type
-VA02 - fixes, after initial tests.
-VA..  - future versions
+Versions: 
+VA01  (initial prototype),
+VA02  (fixes, after initial tests),   
+VAxx  (future versions will be in their own folders)
 
-If you want to want to get a PCB manufactured - simply use the latest GERBER zip (ie Gerber_PCB_2020-04-10 17_26_57.zip) file.  Most manufacturers will provide an instant quote and typically only a few dollars.   Alternatively use the schematic to build your own breadboad version.
+If you want to want to get a bunch of PCBs manufactured - simply use the latest GERBER zip (ie Gerber_PCB_2020-04-10 17_26_57.zip) file.  Most manufacturers will provide an instant quote and typically be only a few dollars plus postage (which is most expensive part).   Alternatively use the schematic to build your own breadboad version.
 
 Please feel free to copy, adapt and use as appropriate (public domain). If you do improve on this design, please provide an acknowledgement,  drop me a note / create an issue to let me know and share your results.
 
-If you would like to develop your own version (customised for your specific video device, make a smaller SMD version), or simply to poke around to further  your own understanding - I used the free app EasyEDA - I've opened up the project respository to make it easiser to clone and adapt (see https://easyeda.com/dekkit/rgb-to-component-transcoder)
+If you would like to develop your own version (customised for your specific video device, make a smaller SMD version), or simply to poke around to help further your own understanding  (pick up on any errors too!) - I used the free app EasyEDA - I've opened up the project to make it easiser to clone and adapt (see https://easyeda.com/dekkit/rgb-to-component-transcoder)
 
 
 Dek.
 17/5/2020
 
 Acknowledgements to Ace, Zebidee and all variations available on the web which helped me get this far.
-Also to https://www.retrorgb.com/ for most useful info on LM1881 and THS amps - its an excellent resource highly recommended.
+Also to https://www.retrorgb.com/ for most useful info on LM1881 and THS amps - it's an excellent resource highly recommended site.
 
 
 FURTHER BACKGROUND
@@ -57,10 +57,10 @@ Snes Pal, Dreamcast NTSC, Arcade 60-in-1 Jamma PCB
 
 Warning
 No warrenty provided /use at own risk. Will not be held liable for any damage (its free after all!).
-Use quality video cables otherwise  (cheap imported video cables have weird resistance values which create all sorts of video interferences - keep cables short too!).
+Use quality video cables   (cheap imported video cables have weird resistance values which create all sorts of video interferences - keep cables short too!).
 
 Please share, clone, improve and share again (pay it forward) - that way we can all benefit. 
 
-This was based on many designs found on the web using the BA7230 chip and from plenty of own my trials and testing the quality of outputs.  Project was initiated after discovering that one of my crts was unable to be RGB modded but could be modded to support component video!   
+This schematic and pcb(s) have been based on the many designs found on the web using the BA7230 chip and from plenty of own my trials and testing the outputs until i found a method i was comfortable with it.  Project was initiated after discovering that one of my crts was unable to be RGB modded but could be modded to support component video.
 
 Hope you find it as useful as I have.
