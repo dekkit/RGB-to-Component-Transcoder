@@ -59,7 +59,7 @@ Initial successful testing (on version VA01 19/4/2020):
 Snes Pal, Dreamcast NTSC, Arcade 60-in-1 Jamma PCB
 
 Warning
-No warrenty provided /use at own risk. Will not be held liable for any damage (its free after all!).
+No Warranty provided /use at own risk. Will not be held liable for any damage (its free after all!).
 Use quality video cables   (cheap imported video cables have weird resistance values which create all sorts of video interferences - keep cables short too!).
 
 Please share, clone, improve and share again (pay it forward) - that way we can all benefit. 
