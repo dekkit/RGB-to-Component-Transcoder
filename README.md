@@ -1,8 +1,6 @@
 # Dek's RGB-to-Component-Transcoder
 A DIY RGB to Component Video Transcoder to make your own video conversion boxes. 
 
-Included is DIY schematic and PCB for creating your own RGB video to Component / YUV video transcoder box.
-
 This schematic and associated PCB does not do any upscaling and is designed to support old CRT TVs that only have component video inputs (not RGB scart like in many european countries) and primarily as way to open up more output options for retro consoles using an external method (rather needing to directly modify the internal hardware).   This schematic will not upscale a 240p signal. Many LCD tvs will not display a 240p picture through Component video in!
 
 It has been designed to fit in a small DIY project box of dimensions 10cm x 6cm x 2.5cm (with screw holes aligned).  You can find these readily online or you can arrange a 3D print.
