@@ -23,7 +23,7 @@ If you would like to develop your own version (customised for your specific vide
 
 
 Dek.
-17/5/2020
+29/5/2020
 
 Acknowledgements to Ace, Zebidee and all variations available on the web which helped me get this far.
 Also to https://www.retrorgb.com/ for most useful info on LM1881 and THS amps - it's an excellent resource highly recommended site.
@@ -65,6 +65,6 @@ Use quality video cables   (cheap imported video cables have all sorts of video 
 
 Please share, clone, improve and share again (pay it forward) - that way we can all benefit. 
 
-This schematic and pcb(s) have been based on the many designs found on the web using the BA7230 chip and from plenty of own my trials and testing the outputs until i found a method i was comfortable with it.  Project was initiated after discovering that one of my crts was unable to be RGB modded but could be modded to support component video.
+This schematic and pcb(s) have been based on the many designs found on the web using the BA7230 chip and from plenty of own my trials and testing the outputs until i found a method and design i was comfortable with it.  Project was initiated after discovering that one of my crts was unable to be RGB modded but could be modded to support component video.
 
 Hope you find it as useful as I have.
