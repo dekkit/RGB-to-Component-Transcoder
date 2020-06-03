@@ -7,7 +7,7 @@ This schematic and associated PCB does not do any upscaling and is designed to s
 This schematic will not upscale a 240p signal. Many LCD tvs will not display a 240p picture through Component video in.
 
 
-New versions can be found here in the code repository
+New versions (schematic, pcb files, test results etc) can be found here in the code repository
 https://github.com/dekkit/RGB-to-Component-Transcoder
 
 Versions: 
@@ -15,7 +15,7 @@ VA01  (initial prototype),
 VA02  (fixes, after initial tests),   
 VAxx  (future versions will be in their own folders)
 
-If you want to want to get a bunch of PCBs manufactured - simply use the latest GERBER zip (ie Gerber_PCB_2020-04-10 17_26_57.zip) file.  Most manufacturers will provide an instant quote and typically only be a few dollars plus postage (postage is most expensive part).   Or  use the schematic to build your own breadboard version.
+If you want to want to get a bunch of PCBs manufactured - simply use the latest GERBER zip (ie Gerber_PCB_2020-04-10 17_26_57.zip) file.  Most manufacturers will provide an instant quote and typically is only be a few dollars plus postage (postage is most expensive part).   Or  use the schematic to build your own breadboard version.
 
 Please feel free to copy, adapt and use as appropriate (public domain). If you do improve on this design, please provide an acknowledgement,  drop me a note / create an issue to let me know and share your results.
 
