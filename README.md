@@ -36,7 +36,7 @@ This schematic was intended to be used for consumer CRT TVs as another way to su
 Includes
 - Audio pass through (to support the development of custom retro console cables)
 - Additional variable resistors (trim pots) to attenuate incoming RGB signals and create an all-in-one style plug (useful for per retro console customisations ie snes pal).
-- Composite Video to Composite Sync (to extract csync from normal composite video, in case a system does not natively output csync - like Super Nintentdo pal, or if you want to create an RGB Scart to Component transcoder)
+- Composite Video to Composite Sync (to extract csync from normal composite video, in case a system does not natively output csync - like Super Nintentdo pal, or if you want to create an RGB Scart to Component transcoder) - alternatively you can also extract sync from luma or if you already have csync signal add a jumper wire.
 - Mostly through-hole components to make it easier to assemble (except for the THS amp).
 
 
